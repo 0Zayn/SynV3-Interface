@@ -1,6 +1,6 @@
 # SynV3
 
-Made this a couple years ago out of entertainment, and wanted to open source it for everyone
+Made this a couple years ago for entertainment, and wanted to open source it for everyone
 
 <img width="970" height="472" alt="Screenshot 2026-07-14 160549" src="https://github.com/user-attachments/assets/4acec8d7-067e-46cc-808e-546574ddd974" />
 <img width="971" height="467" alt="Screenshot 2026-07-14 160554" src="https://github.com/user-attachments/assets/3c801d4e-b025-4e58-bb06-4a141702fcde" />
